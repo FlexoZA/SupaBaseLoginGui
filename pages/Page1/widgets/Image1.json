@@ -1,0 +1,39 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 15,
+  "boxShadow": "none",
+  "defaultImage": "",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "https://workshopdb.cwe.cloud/storage/v1/object/sign/general/Crossworks%20(700%20x%20200%20px)_light_logo.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJnZW5lcmFsL0Nyb3Nzd29ya3MgKDcwMCB4IDIwMCBweClfbGlnaHRfbG9nby5wbmciLCJpYXQiOjE3NDkxMTE2MjQsImV4cCI6MTc4MDY0NzYyNH0.vuKxRVsVHYvNc_YcdkJ03F3hIPZpCSF7j3XxEevb948",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "h3omkdo95z",
+  "leftColumn": 21,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 12,
+  "mobileLeftColumn": 21,
+  "mobileRightColumn": 33,
+  "mobileTopRow": 0,
+  "needsErrorInfo": false,
+  "objectFit": "cover",
+  "parentColumnSpace": 20.5625,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 45,
+  "topRow": 3,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "kvspa8ifwr",
+  "widgetName": "Image1"
+}
