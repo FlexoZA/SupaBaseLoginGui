@@ -35,7 +35,7 @@
   "mobileRightColumn": 62,
   "mobileTopRow": 33,
   "needsErrorInfo": false,
-  "onClick": "",
+  "onClick": "{{loginHandler.handleLogin(Input1.text, Input2.text)}}",
   "originalBottomRow": 34,
   "originalTopRow": 30,
   "parentId": "7slw6hzdu6",
